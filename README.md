@@ -54,7 +54,7 @@ Y_pred = model.predict(X_test_scaled)
 
 #intersept ir beta knot values and coefficiets are being displayed
 #model coefficient and metrics
-print("Name: POOJA U")
+print("Name: U POOJA ")
 print("Reg. No: 25011745")
 print("MODEL COEFFICIENTS: ")
 for feature, coef in zip(X.columns, model.coef_):
