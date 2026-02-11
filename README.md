@@ -17,8 +17,8 @@ To write a program to predict car prices using a linear regression model and tes
 ```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: Prarthana D
-RegisterNumber:  212225230213
+Developed by: POOJA U
+RegisterNumber: 212225230209
 */
 
 import pandas as pd
@@ -54,8 +54,8 @@ Y_pred = model.predict(X_test_scaled)
 
 #intersept ir beta knot values and coefficiets are being displayed
 #model coefficient and metrics
-print("Name: Prarthana D")
-print("Reg. No: 25014010")
+print("Name: POOJA U")
+print("Reg. No: 25011745")
 print("MODEL COEFFICIENTS: ")
 for feature, coef in zip(X.columns, model.coef_):
     print(f"{feature:} : {coef:}")
