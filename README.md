@@ -102,7 +102,6 @@ ax2.set_title("Q-Q Plot")
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 <img width="853" height="373" alt="Screenshot 2026-02-07 141235" src="https://github.com/user-attachments/assets/adc03754-dc8f-4560-9651-9ad298cf3ff2" />
 <img width="870" height="275" alt="Screenshot 2026-02-07 141247" src="https://github.com/user-attachments/assets/9ada1e91-e019-48c3-aac2-c2bf1eb177fa" />
